@@ -19,7 +19,7 @@ Customer with login
 3. Adding the products in cart.
 4. Calculate the price of the products in cart(Total number of products, sum of the product price).
 5. Enter the payment details(card holder name, card number, cvv) and proceed to pay.
-6. Once after the payment is successfull a invoice shoould be given to the customer for download.
+6. Once after the payment is successfull a invoice pdf shoould be given to the customer for download.
 7. Each customer should have their payment history.
 
 Customer without Login 
